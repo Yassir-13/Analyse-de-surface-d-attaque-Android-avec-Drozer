@@ -1,0 +1,5 @@
+dz> run app.broadcast.info -a com.vulnerablebankapp
+Attempting to run shell module
+Package: com.vulnerablebankapp
+  androidx.profileinstaller.ProfileInstallReceiver
+    Permission: android.permission.DUMP

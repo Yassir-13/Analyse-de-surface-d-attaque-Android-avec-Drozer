@@ -1,0 +1,5 @@
+dz>  run app.activity.info -a com.vulnerablebankapp
+Attempting to run shell module
+Package: com.vulnerablebankapp
+  com.vulnerablebankapp.MainActivity
+    Permission: null

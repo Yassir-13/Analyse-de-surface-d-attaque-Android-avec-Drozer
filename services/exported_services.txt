@@ -1,0 +1,4 @@
+dz> run app.service.info -a com.vulnerablebankapp
+Attempting to run shell module
+Package: com.vulnerablebankapp
+  No exported services.
